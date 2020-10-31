@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: 'polo123qwe.github.io'
+    publicPath: process.env.VUE_APP_BASE_ROUTE
 }
